@@ -629,6 +629,16 @@ dependencies = [
 ]
 
 [[package]]
+name = "claurst-amun-min"
+version = "0.0.9"
+dependencies = [
+ "anyhow",
+ "chrono",
+ "serde",
+ "serde_json",
+]
+
+[[package]]
 name = "claurst-api"
 version = "0.0.9"
 dependencies = [

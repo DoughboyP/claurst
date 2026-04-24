@@ -13,6 +13,7 @@ members = [
     "crates/buddy",
     "crates/plugins",
     "crates/acp",
+    "crates/amun_min",
 ]
 
 [workspace.package]
