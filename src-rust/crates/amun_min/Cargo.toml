@@ -1,0 +1,11 @@
+[package]
+name = "claurst-amun-min"
+version.workspace = true
+edition.workspace = true
+description = "Amun-Min: The Primordial Creator, King of Gods, Lord of Fertility — modelled in Rust"
+
+[dependencies]
+serde = { workspace = true }
+serde_json = { workspace = true }
+chrono = { workspace = true }
+anyhow = { workspace = true }
